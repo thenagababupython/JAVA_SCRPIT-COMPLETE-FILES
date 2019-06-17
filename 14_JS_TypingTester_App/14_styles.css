@@ -12,8 +12,6 @@ body{
     font-size: 20px;
 }
 
-
-
 .text-section{
     margin: 50px auto auto auto; /* place center */
     max-width: 750px;
@@ -98,7 +96,8 @@ body{
     padding: 10px;
     text-align: center;
     font-size: 35px;
-    border-radius: 5px;
+    border-radius: 50px;
+    box-shadow: 0 0 10px black;
     display: none;
 }
 
