@@ -2,6 +2,10 @@
 ==========================================================================================================================================
 java-->jdk---->jvm
 javscript--->browser--->js Enginee
+Mozilla Firefox   ----> Spidermonkey, 
+Microsoft Edge    -----> Chakra/ChakraCore, 
+Apple Safari      ---- >engine JavaScriptCore,
+Google Chrome     ----- >V8, which is also the engine of Node.js.
 
 WEBSITES:
 ------------------------------------------------------------------------------------------------------------------------------------------
